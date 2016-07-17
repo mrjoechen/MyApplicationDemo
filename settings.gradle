@@ -1,1 +1,1 @@
-include ':app', ':multidown'
+include ':app', ':multidown', ':baidumaptest', ':navigationdrawer', ':okhttp_demo'

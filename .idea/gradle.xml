@@ -9,14 +9,20 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baidumaptest" />
             <option value="$PROJECT_DIR$/multidown" />
+            <option value="$PROJECT_DIR$/navigationdrawer" />
+            <option value="$PROJECT_DIR$/okhttp_demo" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baidumaptest" />
             <option value="$PROJECT_DIR$/multidown" />
+            <option value="$PROJECT_DIR$/navigationdrawer" />
+            <option value="$PROJECT_DIR$/okhttp_demo" />
           </set>
         </option>
       </GradleProjectSettings>

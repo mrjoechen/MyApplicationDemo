@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baidumaptest/baidumaptest.iml" filepath="$PROJECT_DIR$/baidumaptest/baidumaptest.iml" />
       <module fileurl="file://$PROJECT_DIR$/multidown/multidown.iml" filepath="$PROJECT_DIR$/multidown/multidown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationdrawer/navigationdrawer.iml" filepath="$PROJECT_DIR$/navigationdrawer/navigationdrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp_demo/okhttp_demo.iml" filepath="$PROJECT_DIR$/okhttp_demo/okhttp_demo.iml" />
     </modules>
   </component>
 </project>
